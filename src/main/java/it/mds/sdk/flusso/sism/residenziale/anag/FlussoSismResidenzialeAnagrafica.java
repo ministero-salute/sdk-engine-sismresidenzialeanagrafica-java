@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.residenziale.anag;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
